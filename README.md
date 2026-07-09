@@ -156,6 +156,6 @@ If you found this project useful, consider giving it a ⭐ on GitHub!
 
 ---
 
-## 📄 License
+## License
 
 This project is created for educational and portfolio purposes.
