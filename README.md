@@ -149,11 +149,6 @@ This project demonstrates how SQL can be applied to:
 - Perform Advanced SQL Analytics
 - Integrate Python for automated reporting
 
-
-## Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
-
 ---
 
 ## License
